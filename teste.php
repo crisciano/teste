@@ -9,6 +9,8 @@
 	<h2>teste de alteração de versão</h2>
 
 	<h5>terceiro teste de versão</h5>
+	
+	<?php	echo "esse e um teste no github no editor do github"; ?>
 
 </body>
 </html>
